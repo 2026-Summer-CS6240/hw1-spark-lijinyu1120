@@ -17,9 +17,9 @@ hdfs.input=input
 hdfs.output=output
 # AWS EMR Execution
 aws.emr.release=emr-6.10.0
-aws.bucket.name=cs6240-demo-bucket
+aws.bucket.name=lijinyu-cs6240-hw1-spark
 aws.input=input
-aws.output=output
+aws.output=output-spark
 aws.log.dir=log
 aws.core.num.nodes=2
 aws.primary.num.nodes=1

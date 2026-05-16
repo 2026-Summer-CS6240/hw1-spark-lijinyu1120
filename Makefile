@@ -2,8 +2,8 @@
 
 # Customize these paths for your environment.
 # -----------------------------------------------------------
-spark.root=/usr/local/spark-3.3.2-bin-without-hadoop
-hadoop.root=/usr/local/hadoop-3.3.5
+spark.root=/Users/jinyuli/Documents/opt/spark-3.3.2-bin-without-hadoop
+hadoop.root=/Users/jinyuli/Documents/opt/hadoop-3.3.5
 app.name=Word Count
 jar.name=spark-demo.jar
 maven.jar.name=spark-demo-1.0.jar
